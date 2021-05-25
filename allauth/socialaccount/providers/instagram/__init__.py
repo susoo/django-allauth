@@ -6,4 +6,5 @@ class InstagramConfig(AppConfig):
     label = 'allauth_instagram'
 
 
-default_app_config = 'allauth.socialaccount.providers.instagram.InstagramConfig'
+default_app_config = 'allauth.socialaccount.providers.instagram.InstagramConfig'git status
+
